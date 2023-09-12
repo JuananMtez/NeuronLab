@@ -32,12 +32,12 @@ NeuronLab is a secure, multiplatform, and web-based framework that provides a wo
 ### Installation
 1. Clone the repo.
 ```sh
-git clone https://github.com/JuananMtez/NeuronLab-GUI.git
+git clone https://github.com/JuananMtez/NeuronLab.git
 ```
 
 2. Change to project directory.
 ```sh
-cd NeuronLab-GUI
+cd NeuronLab/NeuronLab-GUI
 ```
 
 3. Install Visual Studio.
@@ -114,12 +114,12 @@ while True:
 ### Installation
 1. Clone the repo.
 ```sh
-git clone https://github.com/JuananMtez/NeuronLab-Backend.git
+git clone https://github.com/JuananMtez/NeuronLab.git
 ```
 
 2. Change to project directory.
 ```sh
-cd NeuronLab-Backend
+cd Neuronlab/NeuronLab-Backend
 ```
 
 4. Install dependencies.
