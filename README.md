@@ -178,4 +178,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python
 [FastAPI]: https://img.shields.io/badge/fastapi-20232A?style=for-the-badge&logo=fastapi
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react
-[Electron.js]: https://img.shields.io/badge/Electron.js-20232A?style=for-the-badge&logo=react
+[Electron.js]: https://img.shields.io/badge/Electron.js-20232A?style=for-the-badge&logo=electron
